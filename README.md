@@ -1,4 +1,4 @@
-# tinymce-formatpainter-leon
+# tinymce-formatpainter
 
 A free formatpainter(格式刷) for tinymce 
 
