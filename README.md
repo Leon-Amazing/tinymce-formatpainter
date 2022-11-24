@@ -1,6 +1,6 @@
 # tinymce-formatpainter-leon
 
-formatpainter(格式刷) for tinymce
+free formatpainter(格式刷) for tinymce
 
 ![example](./example.gif)
 
@@ -15,8 +15,9 @@ import 'formatpainter.js'
 ### 2.配置
 
 ```js
-init: {
-  plugins: "formatpainter ...",
-  toolbar: 'formatpainter ...'
-}
+tinymce.init({
+    selector: '#tinymce',
+    plugins: 'formatpainter ...',
+    toolbar: 'formatpainter | ...',
+});
 ```
