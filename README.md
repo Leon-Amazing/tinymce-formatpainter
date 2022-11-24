@@ -9,7 +9,7 @@ A free formatpainter(格式刷) for tinymce
 ### 1.导入 js
 
 ```bash
-    import 'formatpainter.js'
+import 'formatpainter.js'
 ```
 
 ### 2.配置
