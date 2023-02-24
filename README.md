@@ -21,3 +21,7 @@ tinymce.init({
     toolbar: 'formatpainter | ...',
 });
 ```
+ :persevere: 
+
+
+1
